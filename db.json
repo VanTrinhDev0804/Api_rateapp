@@ -1,28 +1,442 @@
 {
     "data": [
         {
-            "link": "https://homedy.com/nha-1-lau-so-rieng-san-720-trieu-80m2-phan-van-hon-sau-cho-ba-diem-sang-ten-lien-es1669677",
-            "title": "Nhà 1 lầu sổ riêng sẵn 720 triệu 80m2 Phan Văn Hớn sau Chợ Bà Điểm - sang tên liền",
-            "price": 720,
+            "link": "https://homedy.com/nha-5x25m-1-duong-ba-diem-2-ap-bac-lan-xa-ba-diem-es1678028",
+            "title": "Nhà 5x25m, 1/ đường Bà Điểm 2 ấp Bắc Lân xã Bà Điểm",
+            "price": 3,
+            "area": 125,
+            "quan": "Huyện Hóc Môn",
+            "img": "https://img.homedy.com/store/images/2021/12/17/img-20211217-125624-637753470974411334.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-mat-tien-23-duong-so-2-phuong-16-go-vap-es1629029",
+            "title": "Bán nhà mặt tiền 23 đường số 2 phường 16 Gò Vấp",
+            "price": null,
+            "area": 29,
+            "quan": "Quận Gò Vấp",
+            "img": "https://img.homedy.com/store/images/2021/10/21/z2864522439666-c3eb3ed5f5849521b75ac89c1a3c58f6-637704206177577032.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/chinh-chu-ban-nha-hem-6m-cuoi-duong-ma-lo-1-lau-2-phong-ngu-4x8m-gia-159-ty-es1676515",
+            "title": "Chính chủ bán nhà hẻm 6m cuối đường Mã Lò 1 lầu 2 phòng ngủ 4X8m giá 1.59 tỷ ",
+            "price": 1,
+            "area": 32,
+            "quan": "Quận Bình Tân",
+            "img": "https://img.homedy.com/store/images/2021/12/15/20211212110101-b2ae-wm-637751889063771686.jpeg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-rieng-quan-thu-duc-tp-ho-chi-minh-gia-380-ty-es1676038",
+            "title": "Bán nhà riêng quận Thủ Đức - TP Hồ Chí Minh giá 3.80 tỷ",
+            "price": 3,
+            "area": 103,
+            "quan": "Thành phố Thủ Đức",
+            "img": "https://img.homedy.com/store/images/2021/12/15/img-1636593116911-1637210012180-637751637745673801.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/nha-moi-1-lau-cho-cho-xuan-thoi-thuong-hoc-mon-415m-toi-ban-700-trieu-es1675314",
+            "title": "Nhà mới 1 lầu chỗ chợ Xuân Thới Thượng, Hóc Môn 4*15m tôi bán 700 triệu ",
+            "price": 700,
+            "area": 120,
+            "quan": "Huyện Hóc Môn",
+            "img": "https://img.homedy.com/store/images/2021/12/14/38-11-637750894859019783.png_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/chinh-chu-ban-nha-hem-xe-xe-hoi-lac-long-quan-phuong-9-quan-tan-binh-38m2-42-ty-es1675068",
+            "title": "Chính chủ bán nhà hẻm xe xe hơi - Lạc Long Quân, Phường 9, Quận Tân Bình - 38m2 - 4,2 tỷ",
+            "price": 4,
+            "area": 383,
+            "quan": "Quận Tân Bình",
+            "img": "https://img.homedy.com/store/images/2021/12/14/4fbc77d6-966c-4090-99b0-c0178242bda9-637723233819030034-637750765182619516.jpeg_575x330.jpg"
+        },
+        {"link": "https://homedy.com/ban-nha-1-tret-1-lau-duoi-chan-cau-lon-80m2-3pn-690tr-so-hong-bao-sang-ten-tang-not-that-es1674796",
+            "title": "Bán nhà 1 trệt 1 lầu dưới chân cầu lớn 80m2 (3pn) 690tr sổ hồng bao sang tên, tặng nột thất ",
+            "price": 690,
             "area": 80,
             "quan": "Huyện Hóc Môn",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/14/np35-637750673627493356.jpg_575x330.jpg"
         },
         {
-            "link": "https://homedy.com/chi-795-ty-co-ngay-can-biet-thu-mini-tan-co-dien-huynh-tan-phat-an-ninh-24-24-cong-vien-6x14m-es1663837",
-            "title": "Chỉ 7,95 tỷ có ngay căn biệt thự mini tân cổ điển Huỳnh Tấn Phát, an ninh 24/24, công viên, 6x14m",
-            "price": 7,
+            "link": "https://homedy.com/nha-dep-5x15m-canh-khu-cho-hoc-mon-2pn-xay-moi-can-ban-re-shr-full-noi-that-san-moi-705-trieu-es1674769",
+            "title": "Nhà đẹp 5x15m cạnh khu chợ Hóc Môn, 2PN, xây mới cần bán rẻ, SHR full nội thất sẵn mới 705 triệu",
+            "price": 705,
             "area": 80,
-            "quan": "Quận 7",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "quan": "Huyện Hóc Môn",
+            "img": "https://img.homedy.com/store/images/2021/12/14/25a-637750656994545588.jpg_575x330.jpg"
         },
         {
-            "link": "https://homedy.com/biet-thu-goc-2-mat-tien-6x16m-3-lau-san-thuong-tang-noi-that-tai-phuoc-kien-nha-be-gia-65-ty-es1678402",
-            "title": "Biệt thự góc 2 mặt tiền 6x16m, 3 lầu, sân thượng, tặng nội thất tại Phước Kiển, Nhà Bè giá 6,5 tỷ",
-            "price": 6,
-            "area": 96,
+            "link": "https://homedy.com/chinh-chu-ban-185m2-dat-dep-vuong-557m-x-3358m-nha-cu-hem-125-bui-dinh-tuy-gan-chua-long-van-es1554578",
+            "title": "Chính chủ bán 185m2 đất đẹp vuông, 5.57m x 33.58m, nhà cũ, hẻm 125 Bùi Đình Túy, gần chùa Long Vân",
+            "price": 18,
+            "area": 185,
+            "quan": "Quận Bình Thạnh",
+            "img": "https://img.homedy.com/store/images/2021/06/21/20191018-092601-637598830351984179.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-rieng-quan-binh-chanh-thanh-pho-ho-chi-minh-gia-235-ty-es1672278",
+            "title": "Bán nhà riêng quận Bình Chánh - Thành phố Hồ Chí Minh giá 2.35 tỷ",
+            "price": 2,
+            "area": 86,
+            "quan": "Huyện Bình Chánh",
+            "img": "https://img.homedy.com/store/images/2021/12/10/3c8999dca605535b0a1410-637747299213086981.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-rieng-quan-binh-thanh-tp-ho-chi-minh-gia-210-ty-es1668502",
+            "title": "Bán nhà riêng quận Bình Thạnh - TP Hồ Chí Minh giá 2.10 tỷ",
+            "price": 2,
+            "area": 14,
+            "quan": "Quận Bình Thạnh",
+            "img": "https://img.homedy.com/store/images/2021/12/06/img-1195-637744045350163322.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/can-ban-gap-nha-1-tret-2-lau-80m2-gan-cho-binh-chanh-thanh-pho-ho-chi-minh-gia-co-thuong-luong-es1667250",
+            "title": "Cần bán gấp nhà 1 trệt 2 lầu 80m2 gần chợ Bình Chánh - Thành phố Hồ Chí Minh giá có thương lượng",
+            "price": 1,
+            "area": 80,
+            "quan": "Huyện Bình Chánh",
+            "img": "https://img.homedy.com/store/images/2021/12/04/z2992489510525-2e841fee062b4aab409f03c47ddf9a39-637742351219873392.jpg_575x330.jpg"
+        },
+        {"link": "https://homedy.com/k300-nguyen-minh-hoang-k300-tan-binh-42-x-17m-4-tang-btct-xe-hoi-ngu-trong-nha-nhinh-14-ty-es1663820",
+            "title": "K300 - Nguyễn Minh Hoàng K300 Tân Bình- 4.2 x 17m 4 tầng BTCT - Xe hơi ngủ trong nhà - Nhỉnh 14 tỷ",
+            "price": 14,
+            "area": 70,
+            "quan": "Quận Tân Bình",
+            "img": "https://img.homedy.com/store/images/2021/12/01/465e1f86-d25e-4bf8-a246-c099a71eed3a-637739473571713329.jpeg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-gap-nha-1-tret-lau-cao-lo-gia-cuc-re-duoi-2-ty-dong-es1686404",
+            "title": "Bán gấp nhà 1 trệt lầu Cao Lỗ giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 48,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-lo-637762368081561845.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-so-rieng-dong-so-huu-gia-cuc-re-duoi-2-ty-dong-es1686400",
+            "title": "Bán nhà sổ riêng đồng sở hữu giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 22,
             "quan": "Huyện Nhà Bè",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-22-637762363956826758.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-co-so-rieng-le-quyen-quan-8-gia-cuc-re-duoi-2-ty-dong-es1686396",
+            "title": "Bán nhà có sổ riêng Lê Quyên Quận 8 giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 65,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-qu-637762358851240498.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-cap-4-con-moi-48m2-bui-minh-truc-quan-8-gia-duoi-2-ty-dong-es1686393",
+            "title": "Bán nhà cấp 4 còn mới 48m2 Bùi Minh Trực Quận 8 giá dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 48,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-r-637762353161109514.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-gap-nha-cao-lo-quan-8-gia-re-duoi-2-ty-dong-48m2-es1686385",
+            "title": "Bán gấp nhà Cao Lỗ Quận 8 giá rẻ dưới 2 tỷ đồng 48m2",
+            "price": 1,
+            "area": 48,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-488-637762347045681910.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-1-tret-1-lau-hem-lon-pham-hung-gia-cuc-re-duoi-2-ty-dong-es1686274",
+            "title": "Bán nhà 1 trệt 1 lầu hẻm lớn Phạm Hùng giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 49,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-48-637762232434097360.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-gap-nha-ngo-sy-lien-quan-8-gia-re-duoi-2-ty-dong-es1686268",
+            "title": "Bán gấp nhà Ngô Sỹ Liên Quận 8 giá rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 44,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-sy-637762228994788538.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-hem-xe-hoi-khu-dan-cu-phong-phu-binh-chanh-gia-cuc-re-duoi-2-ty-dong-es1686258",
+            "title": "Bán nhà hẻm xe hơi khu dân cư Phong Phú Bình Chánh giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 44,
+            "quan": "Huyện Bình Chánh",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-nghi-637762224633444482.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-gap-nha-42m2-nguyen-duy-quan-8-gia-cuc-re-duoi-2-ty-dong-es1686249",
+            "title": "Bán gấp nhà 42m2 Nguyễn Duy Quận 8 giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 42,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-duy-637762215832400860.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-binh-hung-binh-chanh-44m2-gia-duoi-2-ty-dong-es1686244",
+            "title": "Bán nhà Bình Hưng Bình Chánh 44m2 giá dưới 2 tỷ đồng",
+            "price": 710,
+            "area": 44,
+            "quan": "Huyện Bình Chánh",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-4-637762212294258706.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/nha-46m2-hem-xe-hoi-407-pham-van-chieu-phuong-14-go-vap-es1675701",
+            "title": "Nhà 46m2 hẻm xe hơi 407// Phạm Văn Chiêu, phường 14 Gò Vấp",
+            "price": 5,
+            "area": 46,
+            "quan": "Quận Gò Vấp",
+            "img": "https://img.homedy.com/store/images/2021/12/14/295e58ac-7be0-4fcf-b1c6-46c2b1d53e55-637751213291794837.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-gia-sieu-re-duoi-2-ty-dong-so-huu-ngay-nha-45m2-es1686228",
+            "title": "Bán nhà giá siêu rẻ dưới 2 tỷ đồng sở hữu ngay nhà 45m2",
+            "price": 720,
+            "area": 45,
+            "quan": "Huyện Bình Chánh",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-451-637762201053200571.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-nho-1-tret-1-lau-hem-oto-pham-hung-quan-8-es1686220",
+            "title": "Bán nhà nhỏ 1 trệt 1 lầu hẻm ôtô Phạm Hùng Quận 8",
+            "price": 1,
+            "area": 38,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-38-637762197724107398.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-no-trang-long-46m2-1-tret-1-lau-gia-cuc-re-duoi-2-ty-dong-es1686208",
+            "title": "Bán nhà Nơ Trang Long 46m2 1 trệt 1 lầu giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 46,
+            "quan": "Quận Bình Thạnh",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-461-637762192505390456.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/can-ban-gap-dat-mat-tien-duong-phu-tho-hoa-phuong-phu-tho-hoa-quan-tan-phu-tp-ho-chi-minh-es1639395",
+            "title": "Cần bán gấp đất mặt tiền đường Phú Thọ Hòa, Phường Phú Thọ Hòa, Quận Tân Phú, TP Hồ Chí Minh",
+            "price": null,
+            "area": 265,
+            "quan": "Quận Tân Phú",
+            "img": "https://img.homedy.com/store/images/2021/11/15/88f2b4bd-ff32-43f7-993a-70ea182ef99a-637725778096291907.jpeg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nhanh-nha-pham-the-hien-quan-8-gia-cuc-re-duoi-2-ty-dong-es1686200",
+            "title": "Bán nhanh nhà Phạm Thế Hiển Quận 8 giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 40,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-my-637762184803182744.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-nguyen-cuu-phu-binh-chanh-gia-cuc-re-duoi-2-ty-dong-es1686188",
+            "title": "Bán nhà Nguyễn Cửu Phú Bình Chánh giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 62,
+            "quan": "Huyện Bình Chánh",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-cuu-637762181045398739.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-gap-nha-cap-4-da-nam-quan-8-gia-duoi-2-ty-dong-es1686182",
+            "title": "Bán gấp nhà cấp 4 Dạ Nam Quận 8 giá dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 112,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-da-637762177827564505.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nhanh-nha-lam-van-ben-quan-7-gia-cuc-re-duoi-2-ty-dong-es1686172",
+            "title": "Bán nhanh nhà Lâm Văn Bền Quận 7 giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 41,
+            "quan": "Quận 7",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-thi-637762175297028232.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-1-tet-1-lau-hau-giang-quan-6-gia-cuc-re-es1686170",
+            "title": "Bán nhà 1 tệt 1 lầu Hậu Giang Quận 6 giá cực rẻ",
+            "price": 1,
+            "area": 50,
+            "quan": "Quận 6",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-nhi-637762172602868439.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-gap-nha-60m2-bong-sao-quan-8-850-trieu-tien-o-es1686162",
+            "title": "Bán gấp nhà 60m2 Bông Sao Quận 8 850 triệu tiện ở",
+            "price": 850,
+            "area": 60,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-anh-637762168702514932.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-can-nha-pho-1-tret-1-lau-vao-o-ngay-gia-cuc-re-es1686150",
+            "title": "Bán căn nhà phố 1 trệt 1 lầu vào ở ngay giá cực rẻ",
+            "price": 890,
+            "area": 52,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-52-637762166041947650.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-hem-xe-hoi-4-tang-duong-so-59-phuong-14-go-vap-nha-dep-don-tet-gia-chi-63-ty-es1686146",
+            "title": "Bán nhà hẻm xe hơi 4 tầng đường số 59, Phường 14, Gò Vấp, nhà đẹp đón tết giá chỉ 6.3 tỷ",
+            "price": 6,
+            "area": 52,
+            "quan": "Quận Gò Vấp",
+            "img": "https://img.homedy.com/store/images/2021/12/27/n11-637762157275754068.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-gap-nha-cao-lo-quan-8-gia-re-duoi-2-ty-dong-48m2-es1686385",
+            "title": "Bán gấp nhà Cao Lỗ Quận 8 giá rẻ dưới 2 tỷ đồng 48m2",
+            "price": 1,
+            "area": 48,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-488-637762347045681910.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-hem-duong-25-phuong-tan-quy-quan-7-gia-cuc-re-es1686351",
+            "title": "Bán nhà hẻm đường 25 phường Tân Quy quận 7 giá cực rẻ",
+            "price": 1,
+            "area": 21,
+            "quan": "Quận 7",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-a-637762296433358039.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-huynh-van-nghe-tan-binh-gia-cuc-re-duoi-2-ty-dong-es1686347",
+            "title": "Bán nhà Huỳnh Văn Nghệ Tân Bình giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 48,
+            "quan": "Quận Tân Bình",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-nghe-637762293935114031.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-42m2-hung-phu-gia-cuc-re-duoi-2-ty-dong-es1686344",
+            "title": "Bán nhà 42m2 Hưng Phú giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 42,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-q8-637762291662362128.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-42m2-cao-lo-gia-cuc-re-duoi-2-ty-dong-es1686342",
+            "title": "Bán nhà 42m2 Cao Lỗ giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 42,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-cao-637762288771023482.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-dep-36m22-phong-ngu-tran-xuan-soan-quan-7-gia-cuc-re-es1686340",
+            "title": "Bán nhà đẹp 36m22 phòng ngủ Trần Xuân Soạn Quận 7 giá cực rẻ",
+            "price": 1,
+            "area": 36,
+            "quan": "Quận 7",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-soan-637762285354395354.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-phan-van-hon-72m2-gia-cuc-re-duoi-2-ty-dong-es1686338",
+            "title": "Bán nhà Phan Văn Hớn 72m2 giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 72,
+            "quan": "Huyện Hóc Môn",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-72-637762282008360817.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-1-tret-1-lau-110m2-mat-tien-gia-cuc-re-duoi-2-ty-dong-es1686336",
+            "title": "Bán nhà 1 trệt 1 lầu 110m2 mặt tiền giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 52,
+            "quan": "Huyện Bình Chánh",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-lien-637762278523947545.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-gia-cuc-re-duoi-2-ty-dong-binh-tan-ho-chi-minh-es1686332",
+            "title": "Bán nhà giá cực rẻ dưới 2 tỷ đồng Bình Tân Hồ Chí Minh",
+            "price": 1,
+            "area": 36,
+            "quan": "Quận Bình Tân",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-36-637762275333812788.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-co-so-hong-rieng-nha-be-gia-cuc-re-duoi-2-ty-dong-es1686325",
+            "title": "Bán nhà có sổ hồng riêng Nhà Bè giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 42,
+            "quan": "Huyện Nhà Bè",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-luong-637762272324618285.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/nha-cho-thue-35-tam-phu-thuan-quan-7-tp-ho-chi-minh-es1680625",
+            "title": "Nhà cho thuê 3.5 tấm - Phú Thuận, Quận 7, TP Hồ Chí Minh",
+            "price": null,
+            "area": 175,
+            "quan": "Quận 7",
+            "img": "https://img.homedy.com/store/images/2021/12/21/602f2d4a-4374-4e37-b084-9fa31646e738-637756836949699820.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-hem-gan-duong-1a-vinh-loc-b-binh-chanh-gia-duoi-2-ty-dong-es1686319",
+            "title": "Bán nhà hẻm gần đường 1A Vĩnh Lộc B Bình Chánh giá dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 40,
+            "quan": "Huyện Bình Chánh",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-1a-637762268553121848.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-vinh-loc-b-binh-chanh-gia-cuc-re-duoi-2-ty-dong-es1686315",
+            "title": "Bán nhà Vĩnh Lộc B Bình Chánh giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 45,
+            "quan": "Huyện Bình Chánh",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-w-637762257138640386.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-dep-ta-quang-buu-40m2-gia-cuc-re-duoi-2-ty-dong-es1686311",
+            "title": "Bán nhà đẹp Tạ Quang Bửu 40m2 giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 40,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-ta-637762253307629074.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-duong-ba-trac-gia-cuc-re-duoi-2-ty-dong-es1686307",
+            "title": "Bán nhà Dương Bá Trạc giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 37,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-duong-637762250876875162.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-gap-nha-48m2-pham-hung-1-tret-1-lau-gia-cuc-re-duoi-2-ty-dong-es1686298",
+            "title": "Bán gấp nhà 48m2 Phạm Hùng 1 trệt 1 lầu giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 48,
+            "quan": "Quận 8",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-phamh-637762245026375540.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-duong-nguyen-van-tao-hem-lon-gia-cuc-re-duoi-2-ty-dong-es1686291",
+            "title": "Bán nhà đường Nguyễn Văn Tạo hẻm lớn giá cực rẻ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 54,
+            "quan": "Huyện Nhà Bè",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-tao-637762241212970854.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-le-van-luong-quan-7-gia-cuc-re-chi-duoi-2-ty-dong-es1686277",
+            "title": "Bán nhà Lê Văn Lương Quận 7 giá cực rẻ chỉ dưới 2 tỷ đồng",
+            "price": 1,
+            "area": 47,
+            "quan": "Quận 7",
+            "img": "https://img.homedy.com/store/images/2021/12/27/xong-le-637762235478144812.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-khu-ten-luabinh-tan-213m2-5-tangso-hong-riengho-tro-vay-nh-0902310079-es1686262",
+            "title": "Bán nhà khu Tên Lửa,Bình Tân 213m2/5 tầng,sổ hồng riêng,hỗ trợ vay NH. 0902310079",
+            "price": 7,
+            "area": 213,
+            "quan": "Quận Bình Tân",
+            "img": "https://img.homedy.com/store/images/2021/12/27/z3057973082443-2aad230b5e1a9c8e4f9a2f7dc1570b69-637762212744011371.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/ban-nha-lien-ke-aeon-binh-tan-1-tret-1-lung-3-lau-230m2-ngan-hang-ho-tro-vay-80-es1675895",
@@ -30,7 +444,31 @@
             "price": 7,
             "area": 230,
             "quan": "Quận Bình Tân",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/24/z3049663790513-1a6188684c417b8058599897de62514f-637759618615540891.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/nha-1-lau-so-rieng-san-720-trieu-80m2-phan-van-hon-sau-cho-ba-diem-sang-ten-lien-es1669677",
+            "title": "Nhà 1 lầu sổ riêng sẵn 720 triệu 80m2 Phan Văn Hớn sau Chợ Bà Điểm - sang tên liền",
+            "price": 720,
+            "area": 80,
+            "quan": "Huyện Hóc Môn",
+            "img": "https://img.homedy.com/store/images/2021/12/14/39-11-637750885806470214.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/chi-795-ty-co-ngay-can-biet-thu-mini-tan-co-dien-huynh-tan-phat-an-ninh-24-24-cong-vien-6x14m-es1663837",
+            "title": "Chỉ 7,95 tỷ có ngay căn biệt thự mini tân cổ điển Huỳnh Tấn Phát, an ninh 24/24, công viên, 6x14m",
+            "price": 7,
+            "area": 80,
+            "quan": "Quận 7",
+            "img": "https://img.homedy.com/store/images/2021/12/01/picsart-12-01-084256-637739485599096885.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/biet-thu-goc-2-mat-tien-6x16m-3-lau-san-thuong-tang-noi-that-tai-phuoc-kien-nha-be-gia-65-ty-es1678402",
+            "title": "Biệt thự góc 2 mặt tiền 6x16m, 3 lầu, sân thượng, tặng nội thất tại Phước Kiển, Nhà Bè giá 6,5 tỷ",
+            "price": 6,
+            "area": 96,
+            "quan": "Huyện Nhà Bè",
+            "img": "https://img.homedy.com/store/images/2021/12/17/fb-img-1634749137797-637753737073608843.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/nha-dep-lung-linh-3pn-so-rieng-ban-650-trieu-bao-sang-ten-phan-van-hon-es1282562",
@@ -38,7 +476,7 @@
             "price": 650,
             "area": 80,
             "quan": "Huyện Hóc Môn",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/11/27/b-15-copy-637736272521844202.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/can-ban-nha-khu-quy-hoach-dan-cu-tren-60-can-es1673418",
@@ -46,7 +484,7 @@
             "price": 9,
             "area": 56,
             "quan": "Quận Gò Vấp",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/11/img-1638698338028-1639210492277-637748461256668968.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/nha-hem-xe-hoi-sat-sieu-thi-nhat-ban-1-tret-2-lau-4-phong-ngu-bo-bao-tan-thang-55-ty-tan-phu-es1668144",
@@ -54,7 +492,7 @@
             "price": 5,
             "area": 44,
             "quan": "Quận Tân Phú",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/06/787cce30-8f3e-455b-b03d-d274e37f04a6-637743855287275274.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/ban-gap-can-nha-do-can-tien-xoay-so-trong-mua-dich-vua-roi-nha-nam-mat-tien-duong-kinh-doanh-es1667066",
@@ -62,31 +500,15 @@
             "price": 1,
             "area": 100,
             "quan": "Huyện Bình Chánh",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/28/4543934f-5148-4f45-a847-57e7d9843d3b-637762783131806763.jpg_575x330.jpg"
         },
         {
-            "link": "https://homedy.com/chinh-chu-ket-tien-tieu-tet-ban-nhanh-nha-1-sec-ngan-binh-hung-hoa-a-binh-tan-gia-3ty450-es1683759",
-            "title": "Chính chủ kẹt tiền tiêu tết bán nhanh nhà 1 sẹc ngắn Bình Hưng Hòa A - Bình Tân - giá 3tỷ450",
-            "price": 3,
-            "area": 66,
-            "quan": "Quận Bình Tân",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
-        },
-        {
-            "link": "https://homedy.com/ban-nha-phuong-16-go-vap-5-tang-78m2-56x14-duong-10m-sach-se-88-ty-es1685304",
-            "title": "Bán nhà Phường 16 Gò Vấp - 5 tầng 78m2 5,6x14 - Đường 10m sạch sẽ - 8,8 tỷ",
-            "price": 8,
-            "area": 78,
-            "quan": "Quận Gò Vấp",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
-        },
-        {
-            "link": "https://homedy.com/toa-can-ho-dich-vu-8-tang-doanh-thu-160tr-thang-nguyen-tu-nghiem-quan-2-es1590337",
-            "title": "Toà căn hộ dịch vụ 8 tầng doanh thu 160tr/tháng Nguyễn Tư Nghiêm Quận 2 ",
-            "price": 40,
-            "area": 220,
-            "quan": "Quận 2",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "link": "https://homedy.com/1-lau-3-phong-ngu-2wc-dien-tich-80m2-duong-o-to-gan-cho-gia-735tr-can-don-vao-o-ngay-es1670025",
+            "title": "1 lầu (3 phòng ngủ + 2WC) diện tích 80m2 đường ô tô - Gần chợ, giá 735tr/căn, dọn vào ở ngay",
+            "price": 735,
+            "area": 80,
+            "quan": "Huyện Hóc Môn",
+            "img": "https://img.homedy.com/store/images/2021/12/08/263090979-7009255279092401-2813988625805972941-n-637745490413150452.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/ban-nha-nguyen-van-luong-go-vap-4-tang-59m2-45x13-xe-hoi-ngu-trong-nha-65-ty-es1685085",
@@ -94,7 +516,38 @@
             "price": 6,
             "area": 59,
             "quan": "Quận Gò Vấp",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/25/img-20211223-121932-637760425109072586.jpg_278x154.jpg"
+        },
+        {"link": "https://homedy.com/chinh-chu-ket-tien-tieu-tet-ban-nhanh-nha-1-sec-ngan-binh-hung-hoa-a-binh-tan-gia-3ty450-es1683759",
+            "title": "Chính chủ kẹt tiền tiêu tết bán nhanh nhà 1 sẹc ngắn Bình Hưng Hòa A - Bình Tân - giá 3tỷ450",
+            "price": 3,
+            "area": 66,
+            "quan": "Quận Bình Tân",
+            "img": "https://img.homedy.com/store/images/2021/12/23/z3045802286719-2a82d63dc01d88d022ef145df94e2bf1-637758762475235610.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-phuong-16-go-vap-5-tang-78m2-56x14-duong-10m-sach-se-88-ty-es1685304",
+            "title": "Bán nhà Phường 16 Gò Vấp - 5 tầng 78m2 5,6x14 - Đường 10m sạch sẽ - 8,8 tỷ",
+            "price": 8,
+            "area": 78,
+            "quan": "Quận Gò Vấp",
+            "img": "https://img.homedy.com/store/images/2021/12/26/img-20211223-135622-637761078909772972.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-aeon-binh-tan-56m2-5-lau-hem-xe-hoi-10m-ngan-hang-ho-tro-vay-50-80-es1685549",
+            "title": "Bán nhà Aeon Bình Tân, 56m2, 5 lầu, hẻm xe hơi 10m, ngân hàng hỗ trợ vay 50 - 80%",
+            "price": 7,
+            "area": 200,
+            "quan": "Quận Bình Tân",
+            "img": "https://img.homedy.com/store/images/2021/12/27/z3055543299308-7061a4ad60fb1d932fc1760d96b05d50-637761661426909238.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/toa-can-ho-dich-vu-8-tang-doanh-thu-160tr-thang-nguyen-tu-nghiem-quan-2-es1590337",
+            "title": "Toà căn hộ dịch vụ 8 tầng doanh thu 160tr/tháng Nguyễn Tư Nghiêm Quận 2 ",
+            "price": 40,
+            "area": 220,
+            "quan": "Quận 2",
+            "img": "https://img.homedy.com/store/images/2021/08/19/1962a37b-e16a-43ba-8d6e-b426d60223a0-637649961985881548.jpeg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/biet-thu-mini-so-hong-rieng-3-lau-san-thuong-tang-noi-that-cao-cap-es1684700",
@@ -102,7 +555,7 @@
             "price": 7,
             "area": 80,
             "quan": "Huyện Nhà Bè",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/24/fb-img-1640349425675-637759729800897277.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/nha-dep-chac-chan-hem-xe-hoi-31m2-5-lau-be-tong-cot-thep-75-ty-es1684438",
@@ -110,7 +563,7 @@
             "price": 7,
             "area": 31,
             "quan": "Quận 1",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/24/3d11f361-12ca-4faf-96ca-723ed7326c0f-637759529930353990.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/ban-nha-rieng-quan-binh-chanh-thanh-pho-ho-chi-minh-gia-79000-trieu-es1684428",
@@ -118,7 +571,7 @@
             "price": 790,
             "area": 80,
             "quan": "Huyện Bình Chánh",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/24/photo-2021-12-04-10-33-01-637759522712725729.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/chinh-chu-ban-gap-nha-moi-binh-trung-dong-quan-2-dien-tich-538m2-gia-chi-62-ty-mat-tien-es1684349",
@@ -126,7 +579,7 @@
             "price": 6,
             "area": 54,
             "quan": "Quận 2",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/24/z3049967115176-55737eda7a6b341e2253e9a5e9e2404e-637759498687956920.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/ban-gap-nha-moi-an-tet-hem-lon-binh-trung-dong-quan-2-dien-tich-58m2-gia-73-ty-co-thuong-luong-es1684338",
@@ -134,7 +587,7 @@
             "price": 7,
             "area": 58,
             "quan": "Quận 2",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/24/z3002024813705-ab0e5ba193d2c77eeac711e66cf4440e-637759467453245849.jpg_575x330.jpg"
         },
         {
             "link": "https://homedy.com/nha-1-tret-1-lau-moi-xay-84m2-3pn-2wc-719-trieu-kcn-nhi-xuan-so-hong-tang-noi-that-es1665402",
@@ -142,112 +595,127 @@
             "price": 719,
             "area": 84,
             "quan": "Huyện Hóc Môn",
-            "img": "https://static.homedy.com/src/images/thumb-default_200x200-v1.jpg"
+            "img": "https://img.homedy.com/store/images/2021/12/03/np34-637741180419665724.jpg_575x330.jpg"
         },
         {
-            "link": "https://ancu.me/ban-gap-nha-tl14-gia-325-ty-gia-thuong-luong-ad1879909.html",
-            "title": "Bán gấp nhà TL14 giá 3.25 tỷ giá thương lượng",
-            "price": 3,
-            "area": 52,
-            "quan": "Quận 12"
+            "link": "https://homedy.com/ban-nha-so-hong-hem-xe-hoi-3-lau-san-thuong-tang-noi-that-nguyen-binh-nha-be-es1633996",
+            "title": "Bán nhà sổ hồng hẻm xe hơi, 3 lầu, sân thượng, tặng nội thất, Nguyễn Bình, Nhà Bè",
+            "price": 2,
+            "area": 55,
+            "quan": "Huyện Nhà Bè",
+            "img": "https://img.homedy.com/store/images/2021/12/06/img-20211205-201634-637743785615875202.jpg_575x330.jpg"
         },
         {
-            "link": "https://ancu.me/chinh-chu-ban-nhanh-1683m2-dat-biet-thu-vuon-long-phuoc-quan-9-tp-thu-duc-gia-re-11-trieum2-ad1866503.html",
-            "title": "Chính chủ bán gấp 1.683m2 đất quận 9 rẻ hơn thị trường, vị trí cực đẹp",
-            "price": 0,
-            "area": 1683,
-            "quan": "Quận 9"
-        },
-        {
-            "link": "https://ancu.me/giu-cho-can-ho-mt-eastmark-city-trung-tam-tp-thu-duc-chi-36-trieum2-chiet-khau-len-den-85-thanh-toan-30-nhan-nha-ad1877108.html",
-            "title": "Giữ chỗ căn hộ MT EASTMARK CITY trung tâm TP Thủ Đức, chỉ 36 triệu/m2. Chiết khấu lên đến 8,5%, thanh toán 30% nhận nhà.",
-            "price": 0,
-            "area": 63,
-            "quan": "Quận 9"
-        },
-        {
-            "link": "https://ancu.me/chu-can-ban-gap-nha-hxh-tx39q12gia-55-ty-thuong-luong-ad1877912.html",
-            "title": "chu  cần bán gấp nhà HXH TX39,Q.12,giá 5.5 tỷ thuong luong",
-            "price": 5,
-            "area": 120,
-            "quan": "Quận 12"
-        },
-        {
-            "link": "https://ancu.me/nha-hem-xe-hoi-8m-duong-tan-ky-tan-quy-gan-cho-ad1877666.html",
-            "title": "Nhà hẻm xe hơi 8m đường Tân Kỳ Tân Quý gần chợ",
-            "price": 1,
-            "area": 64,
-            "quan": "Bình Tân"
-        },
-        {
-            "link": "https://ancu.me/ban-toa-nha-nguyen-van-vinh-hiep-tan-tan-phu-118m-5-tang-thang-may-van-phong-gia-chi-169-ty-ad1876927.html",
-            "title": "Bán tòa nhà Nguyễn Văn Vinh, Hiệp Tân, Tân Phú, 118m, 5 tầng, thang máy, Văn phòng, giá chi 16,9 tỷ.",
-            "price": 16,
-            "area": 120,
-            "quan": "Tân Phú"
-        },
-        {
-            "link": "https://ancu.me/nha-ban-1-tret-1-lau-san-truoc-san-sau-dinh-duc-thien-binh-chanh-ad1876243.html",
-            "title": "Nhà Bán 1 Trệt 1 Lầu Sân Trước Sân Sau Đinh Đức Thiện Bình Chánh",
-            "price": 615,
-            "area": 49,
-            "quan": "Bình Chánh"
-        },
-        {
-            "link": "https://ancu.me/nha-4x8-tret-lau-1-2pn2wcnguyen-van-qua-gan-nha-hang-dong-phuong-ad1874687.html",
-            "title": "Nhà 4x8 trệt lầu 1 2PN,2WCNguyễn văn quá gần nhà hàng đông phương",
-            "price": 1,
-            "area": 32,
-            "quan": "Quận 12"
-        },
-        {
-            "link": "https://ancu.me/ban-gap-nha-tia-duong-lai-hung-cuong-vinh-loc-b-binh-chanh-so-hong-rieng-60m2-tho-cu-100-ad1874085.html",
-            "title": "Bán gấp nhà tịa đường Lại Hùng Cường, Vĩnh Lộc B, Bình Chánh. Sổ Hồng Riêng, 60m2 Thổ cư 100%",
-            "price": 1,
-            "area": 60,
-            "quan": "Bình Chánh"
-        },
-        {
-            "link": "https://ancu.me/ban-nha-hem-xe-hoi-quan-340m23-tang-nha-moi-100gia-52-ty-ad1868989.html",
-            "title": "Bán Nhà Hẻm Xe Hơi Quận 3.40m2.3 Tầng .Nhà Mới 100%.Giá 5.2 Tỷ",
-            "price": 5,
-            "area": 35,
-            "quan": "Quận 3"
-        },
-        {
-            "link": "https://ancu.me/can-ban-nha-gap-tra-no-ngan-hang-phan-dat-gom-3-can-tong-dien-tich-113m2-nha-1-lau-quan-12-tp-hcm-gan-quoc-lo-1a-nha-2-mat-tien-duong-ban-gia-7-ty-ad1868334.html",
-            "title": "Cần bán nhà gấp trả nợ ngân hàng phần đất gồm 3 căn, tổng diện tích 113m2 nhà 1 lầu quận 12 TP HCM gần quốc lộ 1a, nhà 2 mặt tiền đường bán giá 7 tỷ",
+            "link": "https://homedy.com/ban-biet-thu-mini-so-rieng-5m-x-17m-3-lau-le-van-luong-xa-phuoc-kien-huyen-nha-be-es1682346",
+            "title": "Bán biệt thự mini sổ riêng 5m x 17m, 3 lầu, Lê Văn Lương, xã Phước Kiển, huyện Nhà Bè",
             "price": 7,
-            "area": 113,
-            "quan": "Quận 12"
+            "area": 83,
+            "quan": "Huyện Nhà Bè",
+            "img": "https://img.homedy.com/store/images/2021/12/23/fb-img-1640146905258-637758521673705336.jpg_575x330.jpg"
         },
         {
-            "link": "https://ancu.me/ban-dat-va-nha-rieng-cap-4-dien-tich-755m2-tai-cu-chi-gia-1150-ty-ad1867219.html",
-            "title": "Bán đất và nhà riêng cấp 4 ,diện tích 75,5m2, tại củ chi, giá 1,150 tỷ",
-            "price": 1,
-            "area": 75,
-            "quan": "Củ Chi"
+            "link": "https://homedy.com/80m2-3-phong-ngu-2wc-duong-o-to-725tr-full-noi-that-so-hong-trao-tay-es1656495",
+            "title": "80m2, 3 phòng ngủ, 2WC đường ô tô, 725tr, full nội thất, sổ hồng trao tay",
+            "price": 725,
+            "area": 80,
+            "quan": "Huyện Hóc Môn",
+            "img": "https://img.homedy.com/store/images/2021/11/23/256749158-644173013258575-3049223579447090055-n-637732534839291091.jpg_575x330.jpg"
         },
         {
-            "link": "https://ancu.me/ban-nha-huynh-thi-hai-q12-gia-re-96m2-kinh-doanh-tot-ad1866852.html",
-            "title": "Bán nhà  Huỳnh Thị Hai, Q12 , Giá Rẻ, 96m2, Kinh doanh tốt.",
+            "link": "https://homedy.com/ban-nha-hem-xe-hoi-6m-so-hong-rieng-3-lau-huynh-tan-phat-thi-tran-nha-be-gia-43-ty-es1631079",
+            "title": "Bán nhà hẻm xe hơi 6m, sổ hồng riêng, 3 lầu, Huỳnh Tấn Phát , Thị Trấn Nhà Bè - Giá 4,3 tỷ",
             "price": 4,
-            "area": 96,
-            "quan": "Quận 12"
+            "area": 54,
+            "quan": "Huyện Nhà Bè",
+            "img": "https://img.homedy.com/store/images/2021/10/24/img-20211024-092849-637707051039586196.jpg_575x330.jpg"
         },
         {
-            "link": "https://ancu.me/nha-cach-mt-vuon-lai-101m-hxh-1-tret-2-lau-btct-chi-38-ty-ad1866727.html",
-            "title": "Nhà Cách MT Vườn Lài 101M, HXH, 1 Trệt, 2 Lầu, BTCT, Chỉ 3.8 Tỷ",
+            "link": "https://homedy.com/ban-nha-1-lau-3-phong-ngu-so-hong-rieng-ho-tro-vay-phuoc-kien-nha-be-gia-35-ty-es1666094",
+            "title": "Bán nhà 1 lầu, 3 phòng ngủ, sổ hồng riêng hỗ trợ vay, Phước Kiển, Nhà Bè - Giá 3,5 tỷ",
             "price": 3,
-            "area": 23,
-            "quan": "Tân Phú"
+            "area": 56,
+            "quan": "Huyện Nhà Bè",
+            "img": "https://img.homedy.com/store/images/2021/12/03/img20211203073944-637741234507532717.jpg_575x330.jpg"
         },
         {
-            "link": "https://ancu.me/ban-nha-pho-chinh-chu-ben-canh-cho-hoa-sam-uat-ho-thi-ky-ad1864706.html",
-            "title": "Bán nhà phố chính chủ  bên cạnh chợ Hoa sầm uất Hồ thị kỷ",
-            "price": 7,
-            "area": 39,
-            "quan": "Quận 10"
+            "link": "https://homedy.com/ban-nha-pho-so-hong-3-lau-san-thuong-tang-noi-that-cao-cap-nguyen-binh-nha-be-es1681401",
+            "title": "Bán nhà phố sổ hồng, 3 lầu, sân thượng, tặng nội thất cao cấp, Nguyễn Bình - Nhà Bè ",
+            "price": 2,
+            "area": 52,
+            "quan": "Huyện Nhà Bè",
+            "img": "https://img.homedy.com/store/images/2021/12/24/img-20211224-081202-637759305137909208.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/chinh-chu-can-ban-gap-nha-5-tang-x-50m2-phu-hop-lam-van-phong-kinh-doanh-online-co-thang-may-es1681367",
+            "title": "Chính chủ cần bán gấp nhà 5 tầng x 50m2 - Phù hợp làm văn phòng, kinh doanh online, có thang máy",
+            "price": 5,
+            "area": 50,
+            "quan": "Quận Bình Tân",
+            "img": "https://img.homedy.com/store/images/2021/12/22/z3043105694101-5b48ced633ca257c55dc2c6abc7404bc-637757618414076842.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-hem-5m-duong-phan-van-hon-ngay-nga-tu-ba-diem-gia-1ty530tr-4x13m-so-hong-rieng-chinh-chu-es1680822",
+            "title": "Bán nhà hẻm 5m đường Phan Văn Hớn ngay ngã tư Bà Điểm giá 1tỷ530tr, 4x13m, sổ hồng riêng chính chủ",
+            "price": 1,
+            "area": 52,
+            "quan": "Huyện Hóc Môn",
+            "img": "https://img.homedy.com/store/images/2021/12/21/f700ec43f1503b0e6241-637756952794495460.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-110m2-3-tang-cuoi-tan-ky-tan-quy-quan-binh-tan-tp-ho-chi-minh-gia-259-ty-es1680304",
+            "title": "Bán nhà 110m2, 3 tầng, cuối Tân Kỳ Tân Quý, quận Bình Tân - TP Hồ Chí Minh giá 2.59 tỷ",
+            "price": 2,
+            "area": 110,
+            "quan": "Quận Bình Tân",
+            "img": "https://img.homedy.com/store/images/2021/12/21/z2960035692035-77a077d73d34e9904a3aecc141cfde4a-637756729596717526.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-40m2-tai-nguyen-dinh-chieu-quan-3-sat-mat-tien-duong-es1680220",
+            "title": "Bán nhà 40m2 tại Nguyễn Đình Chiểu, Quận 3, sát mặt tiền đường",
+            "price": 6,
+            "area": 40,
+            "quan": "Quận 3",
+            "img": "https://img.homedy.com/store/images/2021/12/20/131321750-3524855940917217-4056477251222713327-n-637756407048405224.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/nha-ngay-pho-di-bo-bui-vien-gia-dep-bat-ngo-dong-tien-luu-thong-on-dinh-es1680217",
+            "title": "Nhà ngay phố đi bộ Bùi Viện, giá đẹp bất ngờ, dòng tiền lưu thông ổn định.",
+            "price": 4,
+            "area": 21,
+            "quan": "Quận 1",
+            "img": "https://img.homedy.com/store/images/2021/12/20/120347622-369650760857822-1088874143543415220-n-637756400912780357.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/nha-nho-dep-xinh-xan-o-quan-3-cach-mat-tien-100m-es1680215",
+            "title": "Nhà nhỏ đẹp, xinh xắn ở Quận 3, cách mặt tiền 100m",
+            "price": 3,
+            "area": 25,
+            "quan": "Quận 3",
+            "img": "https://img.homedy.com/store/images/2021/12/20/245901533-1976548592497901-5727010580651148147-n-637756399668741989.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-biet-thu-dang-cap-chau-au-duong-nguyen-binh-gia-chi-115-ty-es1667173",
+            "title": "Bán biệt thự đẳng cấp Châu Âu đường Nguyễn Bình giá chỉ 11.5 tỷ",
+            "price": 11,
+            "area": 165,
+            "quan": "Quận 7",
+            "img": "https://img.homedy.com/store/images/2021/12/04/picsart-10-22-085327-637742290153373092.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/ban-nha-rieng-3-tang-lau-quan-binh-thanh-khu-vuc-nga-tu-hang-xanh-es1679337",
+            "title": "Bàn nhà riêng 3 tầng lầu quận Bình Thạnh, khu vực ngã tư Hàng Xanh",
+            "price": null,
+            "area": 133,
+            "quan": "Quận Bình Thạnh",
+            "img": "https://img.homedy.com/store/images/2021/12/19/5f4ecb3f3a72f02ca963-637755476300208373.jpg_575x330.jpg"
+        },
+        {
+            "link": "https://homedy.com/nha-1-tret-1-lau-moi-xay-mat-tien-6m-lien-he-es1557062",
+            "title": "Nhà 1 trệt 1 lầu mới xây mặt tiền 6m, liên hệ",
+            "price": 719,
+            "area": 80,
+            "quan": "Huyện Hóc Môn",
+            "img": "https://img.homedy.com/store/images/2021/06/24/bb575105-5b17-42a4-b428-ac80740238c9-637601682331282392.jpg_575x330.jpg"
         }
     ]
 }
